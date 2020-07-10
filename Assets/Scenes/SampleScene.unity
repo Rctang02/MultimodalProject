@@ -1076,11 +1076,11 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 10.099022, y: -4.8124785}
-  - {x: 10.120065, y: 4.7903085}
-  - {x: -10.085179, y: 4.7875156}
-  - {x: -10.091313, y: -4.8432546}
-  - {x: 10.074136, y: -4.836421}
+  - {x: 9.844165, y: -4.943284}
+  - {x: 9.83689, y: 4.953815}
+  - {x: -9.752623, y: 4.871764}
+  - {x: -9.741005, y: -4.9607396}
+  - {x: 9.79096, y: -4.9018235}
 --- !u!1 &1495388631
 GameObject:
   m_ObjectHideFlags: 0
@@ -1222,8 +1222,8 @@ MonoBehaviour:
   - {fileID: 7003252466931537491, guid: d516ccf3c0d95654cb329b71a48a0aa3, type: 3}
   - {fileID: 2196041981879811045, guid: cf926b88a56f1e747a558a76738d3746, type: 3}
   - {fileID: 2263589703436348672, guid: 3aa80c7fb200aa74196fc8fb2a0e02e7, type: 3}
-  spawnInterval: 2
-  speed: 5
+  spawnInterval: 1
+  speed: 6
 --- !u!4 &1654476339
 Transform:
   m_ObjectHideFlags: 0

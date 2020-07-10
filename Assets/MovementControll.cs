@@ -54,11 +54,7 @@ public class MovementControll : MonoBehaviour
             Destroy(this.gameObject);
             controller.Restart();
         }
-        else if (col.gameObject.tag == "Earth")
-        {
-            controller.scoreAmount += 10;
-            Destroy(col.gameObject);
-        }
+       
     }
 
 }

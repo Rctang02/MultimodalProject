@@ -1,2 +1,5 @@
 # Multimodal Interaction Project
-    a small project with multimodal input
+
+Multimodal Game in Unity
+
+Voice + Keyboard input
